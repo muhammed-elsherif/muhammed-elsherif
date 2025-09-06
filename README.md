@@ -58,7 +58,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=flat&logo=grafana&logoColor=orange&labelColor=F2F4F9) 
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-257bd6?style=flat&logo=docker&logoColor=white) 
+![Temporal](https://img.shields.io/badge/temporal-b664ff?style=flat&logo=temporal) 
+![n8n](https://img.shields.io/badge/n8n-F2F4F9?style=flat&logo=n8n) 
 ![Apache Gradle](https://img.shields.io/badge/Apache%20Gradle-C71A36?style=flat&logo=Apache%20Gradle&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 
